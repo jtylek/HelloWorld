@@ -1,3 +1,6 @@
 # HelloWorld
-Hello World in Epesi
-Testing remote Git deployment.
+## Used by students of Epesi Academy
+
+### Lesson 1
+Hello World in Epesi to demonstrate low-code and no-code PHP development in Epesi.
+
