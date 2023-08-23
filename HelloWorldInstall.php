@@ -19,8 +19,8 @@ class Custom_HelloWorldInstall extends ModuleInstall {
     public function info() { // Returns basic information about the module which will be available in the epesi Main Setup
 
         return array( 'Author'=>'Janusz Tylek',
-            'License'=>'MIT',
-                    'Description'=>'Hello World tutorial');
+            'License'=>'<MIT>',
+                    'Description'=>'<Hello World tutorial>');
 
     }
 
