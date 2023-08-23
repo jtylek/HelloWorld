@@ -1,4 +1,4 @@
-# HelloWorld
+# Hello World
 ## Used by students of Epesi Academy
 
 ### Lesson 1
