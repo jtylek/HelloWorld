@@ -2,7 +2,7 @@
 
 defined("_VALID_ACCESS") || die('Direct access forbidden');
 
-class Custom_HelloWorldCommon extends ModuleCommon {
+class Academy_HelloWorldCommon extends ModuleCommon {
 
     public static function menu() {
 
