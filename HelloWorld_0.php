@@ -6,7 +6,7 @@ class Academy_HelloWorld extends Module { // - notice how the class name represe
 
   public function body() { // - modules main code
 
-    print('<H1>Hello Janusz!</H1><p>Welcome to low-code and no-code PHP programming in Epesi.</p>');
+    print('<H1>Hello Karina!</H1><p>Welcome to low-code and no-code PHP programming in Epesi.</p>');
 
     }
 }
