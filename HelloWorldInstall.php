@@ -2,7 +2,7 @@
 
 defined("_VALID_ACCESS") || die('Direct access forbidden');
 
-class Custom_HelloWorldInstall extends ModuleInstall {
+class Academy_HelloWorldInstall extends ModuleInstall {
 
     public function install() { // Here you can place the installation process for the module
 
