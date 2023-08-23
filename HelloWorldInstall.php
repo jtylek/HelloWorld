@@ -24,9 +24,10 @@ class Academy_HelloWorldInstall extends ModuleInstall {
 
     }
 
+
     public function simple_setup() { // Indicates if this module should be visible on the module list in Main Setup's simple view
 
-        return array('package' => __('HelloWorld'), 'version'=>'1.0'); // - now the module will be visible as "HelloWorld" in simple_view
+        return array('package' => __('HelloWorld'), 'version'=>'1.0','url'=>'https://github.com/jtylek/HelloWorld/'); // - now the module will be visible as "HelloWorld" in simple_view
 
     }
 
