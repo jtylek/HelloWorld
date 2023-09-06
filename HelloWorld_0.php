@@ -10,7 +10,7 @@ class Academy_HelloWorld extends Module { // - notice how the class name represe
     print('<p><strong>### Lesson 1 ###</strong><br><br>Hello World in <a href="https://epe.si">Epesi</a> to demonstrate low-code and no-code PHP development.</p>');
 
     print('Hello World');
-    print('<BR><BR>It\'s easy, it\'s Epesi!');
+    print('<BR><BR>It\'s easy, it\'s <STRONG>Epesi!</STRONG>');
     }
 }
 
