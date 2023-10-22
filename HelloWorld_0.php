@@ -17,9 +17,7 @@ class Academy_HelloWorld extends Module {
     print('<BR>');
     print($value);
     print('<BR>');
-    print('<pre>');
     print_r($array);
-    print('</pre>');
     }
 }
 ?>
