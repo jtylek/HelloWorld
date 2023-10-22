@@ -19,5 +19,6 @@ class Academy_HelloWorld extends Module {
     print($value);
     print('<BR>');
     var_dump($table);
+  }
 }
 ?>
