@@ -14,10 +14,12 @@ class Academy_HelloWorld extends Module {
       array('Bob', 30),
     );
     print($text);
-    print('BR');
+    print('<BR>');
     print($value);
-    print('BR');
-    echo '<pre>'; print_r($array); echo '</pre>';
+    print('<BR>');
+    print('<pre>');
+    print_r($array);
+    print('</pre>');
     }
 }
 ?>
