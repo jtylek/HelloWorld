@@ -7,4 +7,5 @@ class Academy_HelloWorld extends Module {
   public function body() { 
          print('Hello World!');
         }
+}
 ?>
