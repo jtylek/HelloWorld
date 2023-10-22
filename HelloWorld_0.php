@@ -13,12 +13,11 @@ class Academy_HelloWorld extends Module {
       array('Alice', 25),
       array('Bob', 30),
     );
+    
     print($text);
     print('<BR>');
     print($value);
     print('<BR>');
     var_dump($table);
-}
-    }
 }
 ?>
