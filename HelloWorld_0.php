@@ -13,9 +13,9 @@ class Academy_HelloWorld extends Module {
       array('Alice', 25),
       array('Bob', 30),
     );
-    $this->display($text); // - display text data
-    $this->display($value); // - display numeric data
-    $this->display($table); // - display table data
+    print($text); // - display text data
+    print($value); // - display numeric data
+    print($table); // - display table data
     }
 }
 ?>
